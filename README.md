@@ -9,7 +9,7 @@ I design for systems first — planning things so they’re easy to run, fix, an
 A highly motivated self-starter and strategic thinker. I gained my foundational skills through the Codecademy Backend Career Path.
 
 ---
-### 🧰 Tools & Technologies  
+### 🧰 Languages and Tools  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
