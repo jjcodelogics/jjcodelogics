@@ -70,6 +70,7 @@ I recently completed the **Codecademy Backend Developer Career Path (2025)** and
 ![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jan&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan&layout=compact&theme=tokyonight)
 
+--- 
 
 ### 📬 Get in Touch  
 📧 **jan.dev@email.com**  
