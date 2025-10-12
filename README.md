@@ -1,7 +1,11 @@
-# Codelogics by Joel 
+# Codelogics 
 
-**Hi — I’m Joel, a systems‑oriented Backend Developer who builds automated, scalable Node.js services backed by PostgreSQL to reduce manual work and improve reliability.**
+**Systems‑oriented Backend Developer who builds automated, scalable Node.js services backed by PostgreSQL to reduce manual work and improve reliability.**
 
+### 💡 About Me  
+My work as a Backend Developer focuses on eliminating wasted effort and disorganization by turning complex, manual processes into streamlined, dependable systems with Node.js and PostgreSQL. I began building tailored solutions for small local businesses, which taught me to prioritize user-centered customization and measurable impact.
+
+I think like a Systems Thinker: I design for continuous improvement, reliability, and maintainability. My independent business experience and cross-cultural background give me a strategic, big-picture perspective that complements my technical work and helps teams concentrate on high-value outcomes. I’m a self-starting problem solver with core backend skills developed through the Codecademy Backend Career Path.
 
 ---
 ### 🧰 Tools & Technologies  
@@ -16,12 +20,7 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-### 💡 About Me  
-My work as a Backend Developer focuses on eliminating wasted effort and disorganization by turning complex, manual processes into streamlined, dependable systems with Node.js and PostgreSQL. I began building tailored solutions for small local businesses, which taught me to prioritize user-centered customization and measurable impact.
-
-I think like a Systems Thinker: I design for continuous improvement, reliability, and maintainability. My independent business experience and cross-cultural background give me a strategic, big-picture perspective that complements my technical work and helps teams concentrate on high-value outcomes. I’m a self-starting problem solver with core backend skills developed through the Codecademy Backend Career Path.
 
 ---
 
@@ -61,13 +60,6 @@ I think like a Systems Thinker: I design for continuous improvement, reliability
   </tr>
 </table>
 
---- 
-
-### 📬 Get in Touch  
-📧 **jan.dev@email.com**  
-💼 [LinkedIn](https://linkedin.com/in/jan)  
-🌐 [Portfolio](https://janprojects.dev)
----
 
 ### 📊 GitHub Stats  
 
