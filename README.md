@@ -1,11 +1,12 @@
-# Codelogics 
+# 🧩 Codelogics 
 
-**Systems‑oriented Backend Developer who builds automated, scalable Node.js services backed by PostgreSQL to reduce manual work and improve reliability.**
+**Systems‑Oriented Backend Developer**
 
-### 💡 About Me  
-My work as a Backend Developer focuses on eliminating wasted effort and disorganization by turning complex, manual processes into streamlined, dependable systems with Node.js and PostgreSQL. I began building tailored solutions for small local businesses, which taught me to prioritize user-centered customization and measurable impact.
+I build backend tools that make messy, manual work disappear. Using Node.js and PostgreSQL, I turn complicated processes into reliable, easy-to-use systems that save time and reduce headaches.
 
-I think like a Systems Thinker: I design for continuous improvement, reliability, and maintainability. My independent business experience and cross-cultural background give me a strategic, big-picture perspective that complements my technical work and helps teams concentrate on high-value outcomes. I’m a self-starting problem solver with core backend skills developed through the Codecademy Backend Career Path.
+I design for systems first — planning things so they’re easy to run, fix, and improve over time.  got started by making custom solutions for small local businesses, which taught me to focus on real user needs and practical results. My small-business experience and time working across cultures help me see the bigger picture.
+
+A highly motivated self-starter and strategic thinker. I gained my foundational skills through the Codecademy Backend Career Path.
 
 ---
 ### 🧰 Tools & Technologies  
