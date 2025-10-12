@@ -65,7 +65,4 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
 ### 📊 GitHub Stats  
 
 ![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jan&show_icons=true&theme=tokyonight)  
-<!-- Contribution Activity: compact calendar -->
-<a href="https://github.com/jjcodelogics">
-  <img alt="Recent GitHub contributions" src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&area=true&hide_border=true" />
-</a>
+
