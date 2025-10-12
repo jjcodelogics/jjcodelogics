@@ -1,6 +1,6 @@
 # Codelogics by Joel 
 
-**Hi, my name is Joel -| Backend Developer & Systems Thinker**
+**Hi, my name is Joel and i am a Backend Developer & Systems Thinker**
 
 **I design and automate systems with Node.js and PostgreSQL, turning complex processes into smooth, efficient workflows.**
 
