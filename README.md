@@ -1,8 +1,7 @@
 # Codelogics by Joel 
 
-**Hi, my name is Joel and i am a Backend Developer & Systems Thinker**
+**Hi — I’m Joel, a systems‑oriented Backend Developer who builds automated, scalable Node.js services backed by PostgreSQL to reduce manual work and improve reliability.**
 
-**I design and automate systems with Node.js and PostgreSQL, turning complex processes into smooth, efficient workflows.**
 
 ---
 ### 🧰 Tools & Technologies  
@@ -20,10 +19,9 @@
 ---
 
 ### 💡 About Me  
-I'm an entry-level backend developer focused on building scalable, maintainable systems using **Node.js**, **Express**, and **PostgreSQL**.  
-I care about clean architecture, secure authentication, and reliable integrations — especially around **API design** and **payment automation**.
+My work as a Backend Developer focuses on eliminating wasted effort and disorganization by turning complex, manual processes into streamlined, dependable systems with Node.js and PostgreSQL. I began building tailored solutions for small local businesses, which taught me to prioritize user-centered customization and measurable impact.
 
-I recently completed the **Codecademy Backend Developer Career Path (2025)** and have been building projects to sharpen my backend engineering skills.
+I think like a Systems Thinker: I design for continuous improvement, reliability, and maintainability. My independent business experience and cross-cultural background give me a strategic, big-picture perspective that complements my technical work and helps teams concentrate on high-value outcomes. I’m a self-starting problem solver with core backend skills developed through the Codecademy Backend Career Path.
 
 ---
 
