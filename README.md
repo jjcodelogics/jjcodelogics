@@ -1,8 +1,8 @@
 # Codelogics by Joel 
 
-**Hi, my name is Joel - a Dutch backend developer builing scalable APIs with Node.js and PostgreSQL**
+**Hi, my name is Joel -| Backend Developer & Systems Thinker**
 
-**I design secure, efficient systems and REST APIs whit clean architecture and automations in mind.**
+**I design and automate systems with Node.js and PostgreSQL, turning complex processes into smooth, efficient workflows.**
 
 ---
 ### 🧰 Tools & Technologies  
