@@ -1,8 +1,8 @@
 # Codelogics by Joel 
 
-** `Hi, I`m Joel - a backend developer builing scalable APIs with Node.js and PostgreSQL` **
+**Hi, I`m Joel - a backend developer builing scalable APIs with Node.js and PostgreSQL**
 
-** `I design secure, efficient systems and REST APIs whit clean architecture and automations in mind.` **
+**I design secure, efficient systems and REST APIs whit clean architecture and automations in mind.**
 
 ---
 ### 🧰 Tools & Technologies  
