@@ -23,7 +23,7 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
 
 
 
----
+#
 
 ## 🚀 Featured Projects 
 <table>
