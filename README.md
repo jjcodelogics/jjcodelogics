@@ -2,9 +2,9 @@
 
 **Systems‑Oriented Backend Developer**
 
-I build backend tools that make messy, manual work disappear. Using Node.js and PostgreSQL, I turn complicated processes into reliable, easy-to-use systems that save time and reduce headaches.
+Building with Node.js and PostgreSQL, I turn complicated processes into reliable, easy-to-use systems that save time and effort.
 
-I design for systems first — planning things so they’re easy to run, fix, and improve over time.  got started by making custom solutions for small local businesses, which taught me to focus on real user needs and practical results. My small-business experience and time working across cultures help me see the bigger picture.
+I design for systems first — planning things so they’re easy to run, fix, and always reviewing for optimization. I got started by making custom solutions for small local businesses, which taught me to focus on real user needs and practical results. Having my own small-business experience and time working and living with different cultures helps me see the bigger picture.
 
 A highly motivated self-starter and strategic thinker. I gained my foundational skills through the Codecademy Backend Career Path.
 
