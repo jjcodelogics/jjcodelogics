@@ -29,12 +29,12 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/jan/appointment-scheduler" target="_blank">
+      <a href="https://github.com/jjcodelogics/appointment_booking" target="_blank">
         <img src="https://via.placeholder.com/260x150.png?text=Appointment+Scheduler+API" width="260" alt="Appointment Scheduler API"/>
       </a>
       <br><br>
       <b>Appointment Scheduler API</b><br>
-      RESTful backend with JWT auth and automated email reminders.<br><br>
+      RESTful backend with Express-session auth and automated email reminders.<br><br>
       🔗 <a href="https://github.com/jan/appointment-scheduler">Repository</a> • <a href="https://janprojects.dev/scheduler">Live Demo</a><br><br>
       <sub>Node.js • Express • PostgreSQL • JWT • Nodemailer</sub>
     </td>
