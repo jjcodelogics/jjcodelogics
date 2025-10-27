@@ -30,7 +30,7 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
   <tr>
    <td align="center" width="33%">
   <a href="https://github.com/jjcodelogics/appointment_booking" target="_blank" rel="noopener">
-    <img src="https://via.placeholder.com/260x150.png?text=Appointment+Scheduler+API" width="260" alt="Appointment Scheduler API"/>
+    <img src="https://urban-sway-30853787.figma.site/" width="260" alt="Appointment Scheduler API"/>
   </a>
   <br><br>
   <strong>Full‑stack appointment scheduler</strong><br>
