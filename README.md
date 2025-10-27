@@ -20,7 +20,7 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 #
