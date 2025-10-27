@@ -30,7 +30,7 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
   <tr>
    <td align="center" width="33%">
   <a href="https://github.com/jjcodelogics/appointment_booking" target="_blank" rel="noopener">
-    <img src="https://urban-sway-30853787.figma.site/" width="260" alt="Appointment Scheduler API"/>
+    <img src="https://private-user-images.githubusercontent.com/216368031/505980360-b90523a4-bd09-4a78-a47f-0983ef6b3f31.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE1NjU0MjEsIm5iZiI6MTc2MTU2NTEyMSwicGF0aCI6Ii8yMTYzNjgwMzEvNTA1OTgwMzYwLWI5MDUyM2E0LWJkMDktNGE3OC1hNDdmLTA5ODNlZjZiM2YzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyN1QxMTM4NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjEwNmE3NWM2Njg3NjA2NDQwMzVlODI5MGExOGQyYTc2NTBhNjRiM2VmZDAwYTRlMDg0OTkyMDhlZjgyMWY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bX8Ysc-Ci7W1VfFAPb1cU-2OLk9UWE8DvgKyQFi-cd4" width="260" alt="Appointment Scheduler API"/>
   </a>
   <br><br>
   <strong>Full‑stack appointment scheduler</strong><br>
