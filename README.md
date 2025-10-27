@@ -61,8 +61,3 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
   </tr>
 </table>
 
-
-### 📊 GitHub Stats  
-
-![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jan&show_icons=true&theme=tokyonight)  
-
