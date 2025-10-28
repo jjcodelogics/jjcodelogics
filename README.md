@@ -35,7 +35,7 @@ A highly motivated self-starter and strategic thinker. I gained my foundational 
   <br><br>
   <strong>Full‑stack appointment scheduler</strong><br>
   RESTful Express backend with DB migrations, scheduler/reminder worker combined with Nodemailer, and a Vite-powered frontend/static client.<br><br>
-  🔗 <a href="https://github.com/jjcodelogics/appointment_booking">Repository</a> • <a href="https://janprojects.dev/scheduler" target="_blank" rel="noopener">Live Demo</a><br><br>
+  🔗 <a href="https://github.com/jjcodelogics/appointment_booking">Repository</a> • <a href="https://appointment-booking-ts1m.onrender.com/" target="_blank" rel="noopener">Live Demo</a><br><br>
   <sub>Node.js • Express • express-session • PostgreSQL • Nodemailer • REST API</sub>
 </td>
     <td align="center" width="33%">
